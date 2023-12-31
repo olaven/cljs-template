@@ -1,6 +1,7 @@
 * Template for Clojurescript projects using Shadow CLJS
 
 ** Local Development
+- install dependencies with `npm install`
 - starts automatically with cider jack in in Emacs
 - runs on localhost:9630 
 - the app is running on localhost:8080
